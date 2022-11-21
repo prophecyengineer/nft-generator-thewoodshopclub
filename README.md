@@ -1,4 +1,18 @@
-# Welcome to HashLips 👄
+# TheWoodShopClub Generator
+
+generating 10k nfts with metadata
+
+
+based on [Hashlips Generator](https://github.com/HashLips/hashlips_art_engine.git)
+
+and [Fireship's generator](https://github.com/fireship-io/nft-art-generator)
+
+
+
+
+
+---
+
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
 

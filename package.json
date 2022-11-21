@@ -1,0 +1,25 @@
+{
+  "name": "thewoodshopclub",
+  "version": "1.0.5",
+  "description": "The Wood Shop Club NFT generator",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*",
+      "node_modules/**/*",
+      "src/**/*"
+    ]
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Eugene Botha (HashLips)",
+  "license": "MIT",
+  "dependencies": {
+    "all": "^0.0.0",
+    "canvas": "^2.10.2",
+    "sha1": "^1.1.1"
+  }
+}
